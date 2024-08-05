@@ -11,7 +11,7 @@ A Prefeitura Municipal de Dona Inês é uma instituição governamental localiza
 Aqui estão alguns dos projetos em andamento na equipe de tecnologia da prefeitura:
 
 - [Portal da Transparência](https://github.com/pmdonaines/transparencia): um portal de transparência que permite aos cidadãos acesso a informações sobre as finanças e gastos da prefeitura.
-- [Sistema de Informação Geográfica](https://github.com/pmdonaines/sig): um sistema que fornece informações geográficas e estatísticas sobre a cidade de Dona Inês.
+- [Sistema de Informação Geográfica](https://github.com/pmdonaines/sig): um futuro sistema que fornecerá informações geográficas e estatísticas sobre a cidade de Dona Inês.
 - [Sistema de Protocolo](https://github.com/pmdonaines/protocolo): um sistema que permite aos cidadãos fazer solicitações e protocolos de forma online.
 
 ## Contribuindo
